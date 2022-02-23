@@ -1,2 +1,2 @@
 # IntegracaoEntrega
-Exemplo de integração
+Exemplo de integração e entregas continuas usando GitHub Actions e Azure
